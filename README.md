@@ -13,4 +13,4 @@ Use this utility to ensure a Network Service (e.g. a VPN) remains up in OS X.
  ![screenshot of conmon's confirmation dialog](http://dmtucker.github.io/conmon/screenshots/3-confirmation.png)
 
 Pro Tip
-> In Network Preferences, enable "Show VPN status in menu bar" and see (![connected](http://dmtucker.github.io/conmon/screenshots/status.png)) that your connection is always up.
+> In Network Preferences, enable "Show VPN status in menu bar" and see ( ![connected](http://dmtucker.github.io/conmon/screenshots/status.png) ) that your connection is always up.
