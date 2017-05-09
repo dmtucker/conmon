@@ -10,18 +10,18 @@ Copy connmon.app to the Applications folder.
 
 1. Specify a Network Service.
 
- ![screenshot of connmon's Network Service chooser](http://dmtucker.github.io/connmon/screenshots/1-interface.png)
+ ![screenshot of connmon's Network Service chooser](https://github.com/dmtucker/connmon/raw/master/screenshots/1-interface.png)
 
 2. Specify a polling interval.
 
- ![screenshot of connmon's polling interval field](http://dmtucker.github.io/connmon/screenshots/2-interval.png)
+ ![screenshot of connmon's polling interval field](https://github.com/dmtucker/connmon/raw/master/screenshots/2-interval.png)
 
 3. You're done!
 
- ![screenshot of connmon's confirmation dialog](http://dmtucker.github.io/connmon/screenshots/3-confirmation.png)
+ ![screenshot of connmon's confirmation dialog](https://github.com/dmtucker/connmon/raw/master/screenshots/3-confirmation.png)
 
 Pro Tip
-> In Network Preferences, enable "Show VPN status in menu bar" and see ( ![connected](http://dmtucker.github.io/connmon/screenshots/status.png) ) that your connection is always up.
+> In Network Preferences, enable "Show VPN status in menu bar" and see ( ![connected](https://github.com/dmtucker/connmon/raw/master/screenshots/status.png) ) that your connection is always up.
 
 ## License
 
